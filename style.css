@@ -5,33 +5,30 @@ body {
     margin: 0;
     padding: 0;
 }
-
 /* This targets the main heading */
 h1 {
     color: darkslateblue;
     text-align: center;
     padding: 20 px;
 }
-
 /* This targets all paragraphs */
 p {
     color: #333;
     font-size: 1.2 em;
 }
-
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 body {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #1e2a38;
-  padding: 20 px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1e2a38;
+    padding: 20 px;
 }
 .logo {
     font-size: 1.5 em;
@@ -40,31 +37,31 @@ nav {
     padding-left: 20 px;
 }
 .nav-links {
-  list-style: none;
-  display: flex;
-  gap: 20 px;
+    list-style: none;
+    display: flex;
+    gap: 20 px;
 }
 .nav-links li a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 1 em;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1 em;
 }
 .nav-links li a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 #hero {
-  background: #f9fafc;
-  padding: 100 px 20 px;
-  text-align: center;
+    background: #f9fafc;
+    padding: 100 px 20 px;
+    text-align: center;
 }
 #hero h1 {
-  font-size: 3 em;
-  margin-bottom: 10 px;
-  color: #2c3e50;
+    font-size: 3 em;
+    margin-bottom: 10 px;
+    color: #2c3e50;
 }
 #hero p {
-  font-size: 1.5 em;
-  color: #555;
+    font-size: 1.5 em;
+    color: #555;
 }
 
 
