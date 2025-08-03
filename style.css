@@ -10,14 +10,15 @@ body {
 h1 {
     color: darkslateblue;
     text-align: center;
-    padding: 20px;
+    padding: 20 px;
 }
 
 /* This targets all paragraphs */
 p {
     color: #333;
-    font-size: 1.2em;
+    font-size: 1.2 em;
 }
+
 * {
   box-sizing: border-box;
 }
@@ -30,38 +31,39 @@ nav {
   justify-content: space-between;
   align-items: center;
   background-color: #1e2a38;
-  padding: 20px;
+  padding: 20 px;
 }
 .logo {
-  font-size: 1.5em;
+  font-size: 1.5 em;
   color: #fff;
   font-weight: bold;
 }
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 20px;
+  gap: 20 px;
 }
 .nav-links li a {
   color: #fff;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1 em;
 }
 .nav-links li a:hover {
   text-decoration: underline;
 }
 #hero {
   background: #f9fafc;
-  padding: 100px 20px;
+  padding: 100 px 20 px;
   text-align: center;
 }
 #hero h1 {
-  font-size: 3em;
-  margin-bottom: 10px;
+  font-size: 3 em;
+  margin-bottom: 10 px;
   color: #2c3e50;
 }
 #hero p {
-  font-size: 1.5em;
+  font-size: 1.5 em;
   color: #555;
 }
+
 
